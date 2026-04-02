@@ -37,7 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📂 Estrutura de Pastas
 
 ```bash
-BalleCoffee/
+carrinho_compras_js/
 ├── Códigos/         #Imagens mostrando os códigos completos
 ├── css/             # Folhas de estilo (design e Layout)
 ├── img/             # Imagens, ícones e recursos visuais
